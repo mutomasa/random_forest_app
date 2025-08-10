@@ -1,6 +1,8 @@
 # Random Forest Decision Boundary (Animation)
 
 2次元特徴量データに対するランダムフォーレストの予測境界を、木の本数を増やしながらアニメーションで可視化する Streamlit アプリです。
+<img width="1410" height="699" alt="image" src="https://github.com/user-attachments/assets/d34afd2e-748c-425c-af99-0b96a2cb39f3" />
+
 
 ## 機能
 - 2つの特徴量を用いた2Dデータ（moons / circles / iris(2D)）の選択
